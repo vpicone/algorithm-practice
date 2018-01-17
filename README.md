@@ -1,4 +1,4 @@
-# AlgoCasts
+# AlgoNotes
 
 1. String reverseal
 
